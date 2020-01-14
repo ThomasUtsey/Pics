@@ -1,0 +1,7 @@
+.search-bar{
+    background-color: lightskyblue;
+}
+.search-input{
+    display: flex;
+    justify-content: center;
+}
